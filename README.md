@@ -35,7 +35,7 @@
     <div width="920">
       <h1 align="center">The SQL Audit Results</h1>      
       <div align="center">
-        <img width="900" alt="SQL Audit Results" src="visuals/sql_audit_results.png" />
+        <img width="900" alt="SQL Audit Results" src="sql_audit_results.png" />
       </div>      
       <td width="460" valign="top">
         <h3>1. Strategic Risk Misalignment</h3>
