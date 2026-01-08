@@ -62,7 +62,7 @@
 <table align="center">
     <tr>
         <td width="333" valign="top">
-            <h3>✅ 1. Risk-Based Routing Protocol</h3>
+            <h3> 1. Risk-Based Routing Protocol</h3>
             <ul>
                 <li><strong>Observation:</strong> Critical pipes are currently defaulting to High-Risk carriers due to cost optimization algorithms.</li>
                 <li><strong>Action:</strong> Implement a hard logic rule in the logistics system: <code>IF Condition = 'Critical' THEN Max_Risk = 'Low'</code>.</li>
@@ -70,7 +70,7 @@
             </ul>
         </td>
         <td width="333" valign="top">
-            <h3>✅ 2. Premium Shipping Policy</h3>
+            <h3> 2. Premium Shipping Policy</h3>
             <ul>
                 <li><strong>Observation:</strong> The $50k penalty is the dominant cost driver.</li>
                 <li><strong>Action:</strong> Automatically upgrade all Critical orders to <strong>Air Freight / Premium Ground</strong>.</li>
@@ -78,7 +78,7 @@
             </ul>
         </td>
         <td width="333" valign="top">
-            <h3>✅ 3. Short-Haul Vendor Audit</h3>
+            <h3> 3. Short-Haul Vendor Audit</h3>
             <ul>
                 <li><strong>Observation:</strong> The data revealed elevated risk scores even on short-haul routes (1-3 days lead time).</li>
                 <li><strong>Action:</strong> Initiate a performance review for local short-haul carriers.</li>
